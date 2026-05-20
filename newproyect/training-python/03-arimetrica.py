@@ -1,0 +1,6 @@
+print(5*5)
+print(90/10)
+print(5*67)
+print(5**5)
+print(15-35)
+print(10%3)

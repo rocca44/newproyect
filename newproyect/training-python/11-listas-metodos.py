@@ -1,0 +1,10 @@
+Futbol =["real madrid","barcelona fc","Ac Milan","Roma fc","Arsenal"]
+print (Futbol)
+Futbol.insert(3,"barcelona")
+print (Futbol)
+Futbol.insert(0,"Monagas SC")
+print (Futbol)
+Futbol.remove("Arsenal")
+print (Futbol)
+print ("barcelona" in Futbol)
+print (len(Futbol))
